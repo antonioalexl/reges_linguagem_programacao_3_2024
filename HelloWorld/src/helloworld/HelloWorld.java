@@ -8,10 +8,8 @@ package helloworld;
 import java.util.Scanner;
         
 public class HelloWorld {
-
    
     public static void main(String[] args) {
-        // TODO code application logic here
         //System.out.println("Hello World");
         
         int a = 6; //CRIA A VARIAVEL DE NOME A DO TIPO INT E ATRIBUI O VALOR 6 A ELA
