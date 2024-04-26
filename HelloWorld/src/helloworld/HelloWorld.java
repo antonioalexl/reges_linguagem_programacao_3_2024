@@ -29,6 +29,12 @@ public class HelloWorld {
         
         System.out.println("o usuário digitou:" + c); // IMPRIME O VALOR DA VARIAVEL NO CONSOLE
         
+        
+        
+       
+        
+        
+         
     }
     
 }
