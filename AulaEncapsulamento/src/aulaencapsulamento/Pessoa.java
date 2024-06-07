@@ -34,12 +34,13 @@ public class Pessoa {
         this.documento = valor + " BRASIL";
 
     }
-    
-    public String getDocumento(){
+
+    public String getDocumento() {
         return this.documento;
-       }
-    public String getTipoPessoa(){
-        
+    }
+
+    public String getTipoPessoa() {
+
         return this.tipoPessoa;
     }
 
